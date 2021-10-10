@@ -15,7 +15,7 @@ sites:
   - name: Wiki
     url: https://wiki.atslega.network
   - name: Spotify Status
-    url: https://spotify-live.atslega.de
+    url: https://spotify-live.atslega.de/api/spotify
   - name: Librenms
     url: https://librenms.atslega.network
     
