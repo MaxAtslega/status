@@ -113,19 +113,17 @@
     "icon": "https://favicons.githubusercontent.com/spotify-live.atslega.de",
     "slug": "spotify-status",
     "status": "up",
-    "uptime": "1.46%",
-    "uptimeDay": "1.46%",
-    "uptimeWeek": "1.46%",
-    "uptimeMonth": "1.46%",
-    "uptimeYear": "1.46%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 665,
     "timeDay": 665,
     "timeWeek": 665,
     "timeMonth": 665,
     "timeYear": 665,
-    "dailyMinutesDown": {
-      "2021-10-10": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Librenms",
