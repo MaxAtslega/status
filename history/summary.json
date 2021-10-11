@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/git.atslega.network",
     "slug": "git-lab",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.00%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.00%",
     "time": 1183,
     "timeDay": 907,
     "timeWeek": 1183,
     "timeMonth": 1183,
     "timeYear": 1183,
     "dailyMinutesDown": {
-      "2021-10-11": 0
+      "2021-10-11": 17
     }
   },
   {
@@ -132,7 +132,7 @@
     "url": "https://librenms.atslega.network",
     "icon": "https://favicons.githubusercontent.com/librenms.atslega.network",
     "slug": "librenms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -143,6 +143,8 @@
     "timeWeek": 618,
     "timeMonth": 618,
     "timeYear": 618,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-11": 0
+    }
   }
 ]
