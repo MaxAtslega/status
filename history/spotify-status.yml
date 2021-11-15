@@ -1,7 +1,7 @@
 url: https://spotify-live.atslega.de/api/spotify
-status: up
-code: 200
-responseTime: 618
-lastUpdated: 2021-11-14T23:09:30.934Z
+status: down
+code: 503
+responseTime: 372
+lastUpdated: 2021-11-15T19:34:11.180Z
 startTime: Sun Oct 10 2021 15:19:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
