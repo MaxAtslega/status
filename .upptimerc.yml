@@ -2,8 +2,6 @@ owner: MaxAtslega
 repo: status
 
 sites:
-  - name: GitLab
-    url: https://git.atslega.network
   - name: Mailcow
     url: https://mail.atslega.network
   - name: Gameserver Panel
