@@ -1,7 +1,7 @@
 url: https://gpanel.atslega.network
-status: up
-code: 200
-responseTime: 857
-lastUpdated: 2023-03-04T23:09:42.224Z
+status: down
+code: 500
+responseTime: 529
+lastUpdated: 2023-03-05T16:32:46.755Z
 startTime: Sun Oct 10 2021 15:19:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
