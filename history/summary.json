@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.atslega.network.ico",
     "slug": "mailcow",
     "status": "down",
-    "uptime": "95.49%",
+    "uptime": "95.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "75.77%",
-    "uptimeYear": "93.04%",
-    "time": 640,
+    "uptimeMonth": "72.49%",
+    "uptimeYear": "92.81%",
+    "time": 655,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 676,
-    "timeYear": 674,
+    "timeMonth": 684,
+    "timeYear": 673,
     "dailyMinutesDown": {
-      "2023-11-12": 51,
+      "2023-11-13": 49,
+      "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
@@ -47,8 +48,7 @@
       "2023-07-19": 18,
       "2023-04-01": 187,
       "2023-01-27": 800,
-      "2023-01-25": 17,
-      "2022-11-13": 690
+      "2023-01-25": 17
     }
   },
   {
@@ -57,16 +57,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gpanel.atslega.network.ico",
     "slug": "gameserver-panel",
     "status": "up",
-    "uptime": "96.08%",
+    "uptime": "96.09%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "64.69%",
+    "uptimeWeek": "78.96%",
     "uptimeMonth": "77.55%",
-    "uptimeYear": "92.74%",
-    "time": 3326,
-    "timeDay": 363,
-    "timeWeek": 575,
-    "timeMonth": 521,
-    "timeYear": 3682,
+    "uptimeYear": "92.79%",
+    "time": 3325,
+    "timeDay": 560,
+    "timeWeek": 572,
+    "timeMonth": 528,
+    "timeYear": 3686,
     "dailyMinutesDown": {
       "2023-11-07": 730,
       "2023-11-06": 1440,
@@ -146,8 +146,7 @@
       "2022-11-21": 48,
       "2022-11-18": 47,
       "2022-11-17": 60,
-      "2022-11-16": 96,
-      "2022-11-13": 690
+      "2022-11-16": 96
     }
   },
   {
@@ -156,18 +155,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.atslega.network.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "84.77%",
+    "uptime": "84.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.40%",
+    "uptimeYear": "71.17%",
     "time": 883,
     "timeDay": 0,
     "timeWeek": 379,
     "timeMonth": 380,
-    "timeYear": 912,
+    "timeYear": 914,
     "dailyMinutesDown": {
-      "2023-11-12": 51,
+      "2023-11-13": 49,
+      "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
@@ -274,8 +274,7 @@
       "2023-07-31": 97,
       "2023-04-01": 183,
       "2023-01-27": 800,
-      "2023-01-25": 22,
-      "2022-11-13": 690
+      "2023-01-25": 22
     }
   },
   {
@@ -284,16 +283,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pw.atslega.network.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "96.76%",
+    "uptime": "96.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "64.69%",
+    "uptimeWeek": "78.95%",
     "uptimeMonth": "77.59%",
-    "uptimeYear": "96.72%",
+    "uptimeYear": "96.76%",
     "time": 423,
-    "timeDay": 555,
-    "timeWeek": 392,
-    "timeMonth": 388,
-    "timeYear": 424,
+    "timeDay": 479,
+    "timeWeek": 404,
+    "timeMonth": 395,
+    "timeYear": 425,
     "dailyMinutesDown": {
       "2023-11-07": 731,
       "2023-11-06": 1440,
@@ -312,8 +311,7 @@
       "2023-07-31": 97,
       "2023-04-01": 183,
       "2023-01-27": 800,
-      "2023-01-25": 30,
-      "2022-11-13": 690
+      "2023-01-25": 30
     }
   },
   {
@@ -322,7 +320,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.atslega.network.ico",
     "slug": "wiki",
     "status": "down",
-    "uptime": "7.61%",
+    "uptime": "7.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -333,7 +331,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-12": 51,
+      "2023-11-13": 49,
+      "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
@@ -696,8 +695,7 @@
       "2022-11-17": 1440,
       "2022-11-16": 1440,
       "2022-11-15": 1440,
-      "2022-11-14": 1440,
-      "2022-11-13": 1440
+      "2022-11-14": 1440
     }
   },
   {
@@ -706,18 +704,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/spotify-live.atslega.de.ico",
     "slug": "spotify-status",
     "status": "down",
-    "uptime": "55.08%",
+    "uptime": "55.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "22.04%",
+    "uptimeYear": "21.80%",
     "time": 745,
-    "timeDay": 377,
-    "timeWeek": 413,
-    "timeMonth": 473,
+    "timeDay": 638,
+    "timeWeek": 450,
+    "timeMonth": 484,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2023-11-12": 51,
+      "2023-11-13": 49,
+      "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
@@ -1003,8 +1002,7 @@
       "2023-02-02": 1440,
       "2023-02-01": 541,
       "2023-01-27": 800,
-      "2023-01-25": 15,
-      "2022-11-13": 685
+      "2023-01-25": 15
     }
   },
   {
@@ -1013,18 +1011,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/librenms.atslega.network.ico",
     "slug": "librenms",
     "status": "down",
-    "uptime": "84.65%",
+    "uptime": "84.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.36%",
+    "uptimeYear": "71.12%",
     "time": 791,
-    "timeDay": 283,
-    "timeWeek": 313,
-    "timeMonth": 374,
-    "timeYear": 868,
+    "timeDay": 483,
+    "timeWeek": 341,
+    "timeMonth": 378,
+    "timeYear": 867,
     "dailyMinutesDown": {
-      "2023-11-12": 51,
+      "2023-11-13": 49,
+      "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
@@ -1136,8 +1135,7 @@
       "2023-01-10": 26,
       "2022-12-20": 32,
       "2022-12-08": 39,
-      "2022-11-15": 51,
-      "2022-11-13": 685
+      "2022-11-15": 51
     }
   }
 ]
