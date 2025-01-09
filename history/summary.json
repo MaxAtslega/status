@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.atslega.network.ico",
     "slug": "mailcow",
     "status": "down",
-    "uptime": "75.04%",
+    "uptime": "74.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.02%",
-    "time": 799,
+    "uptimeYear": "38.75%",
+    "time": 800,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 795,
+    "timeYear": 797,
     "dailyMinutesDown": {
-      "2025-01-08": 63,
+      "2025-01-09": 62,
+      "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
@@ -258,10 +259,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "84.56%",
-    "time": 557,
-    "timeDay": 331,
-    "timeWeek": 378,
-    "timeMonth": 457,
+    "time": 556,
+    "timeDay": 358,
+    "timeWeek": 363,
+    "timeMonth": 452,
     "timeYear": 528,
     "dailyMinutesDown": {
       "2024-11-12": 1148,
@@ -339,7 +340,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.atslega.network.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "54.52%",
+    "uptime": "54.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -350,7 +351,8 @@
     "timeMonth": 0,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-01-08": 63,
+      "2025-01-09": 63,
+      "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
@@ -713,8 +715,7 @@
       "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
-      "2024-01-11": 1440,
-      "2024-01-10": 1440
+      "2024-01-11": 1440
     }
   },
   {
@@ -723,18 +724,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pw.atslega.network.ico",
     "slug": "bitwarden",
     "status": "down",
-    "uptime": "88.32%",
+    "uptime": "88.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.88%",
-    "time": 490,
+    "uptimeYear": "68.61%",
+    "time": 491,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2025-01-08": 63,
+      "2025-01-09": 63,
+      "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
@@ -868,7 +870,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.atslega.network.ico",
     "slug": "wiki",
     "status": "down",
-    "uptime": "4.90%",
+    "uptime": "4.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -879,7 +881,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-08": 63,
+      "2025-01-09": 63,
+      "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
@@ -1242,8 +1245,7 @@
       "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
-      "2024-01-11": 1440,
-      "2024-01-10": 1440
+      "2024-01-11": 1440
     }
   },
   {
@@ -1252,7 +1254,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/spotify-live.atslega.de.ico",
     "slug": "spotify-status",
     "status": "down",
-    "uptime": "35.42%",
+    "uptime": "35.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1261,9 +1263,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 461,
+    "timeYear": 462,
     "dailyMinutesDown": {
-      "2025-01-08": 63,
+      "2025-01-09": 63,
+      "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
@@ -1626,8 +1629,7 @@
       "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
-      "2024-01-11": 1440,
-      "2024-01-10": 1440
+      "2024-01-11": 1440
     }
   },
   {
@@ -1636,18 +1638,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/librenms.atslega.network.ico",
     "slug": "librenms",
     "status": "down",
-    "uptime": "54.44%",
+    "uptime": "54.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 393,
+    "time": 392,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2025-01-08": 63,
+      "2025-01-09": 63,
+      "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
@@ -2010,8 +2013,7 @@
       "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
-      "2024-01-11": 1440,
-      "2024-01-10": 1440
+      "2024-01-11": 1440
     }
   }
 ]
