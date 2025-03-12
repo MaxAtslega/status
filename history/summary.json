@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.atslega.network.ico",
     "slug": "mailcow",
     "status": "down",
-    "uptime": "71.31%",
+    "uptime": "71.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "25.82%",
+    "uptimeYear": "25.54%",
     "time": 819,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 787,
+    "timeYear": 788,
     "dailyMinutesDown": {
-      "2025-03-11": 66,
+      "2025-03-12": 65,
+      "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -299,15 +300,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gpanel.atslega.network.ico",
     "slug": "gameserver-panel",
     "status": "up",
-    "uptime": "93.22%",
+    "uptime": "93.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "86.97%",
     "time": 550,
-    "timeDay": 380,
-    "timeWeek": 386,
-    "timeMonth": 427,
+    "timeDay": 367,
+    "timeWeek": 389,
+    "timeMonth": 428,
     "timeYear": 481,
     "dailyMinutesDown": {
       "2025-03-05": 65,
@@ -374,7 +375,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.atslega.network.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "51.81%",
+    "uptime": "51.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -385,7 +386,8 @@
     "timeMonth": 0,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2025-03-11": 66,
+      "2025-03-12": 65,
+      "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -748,8 +750,7 @@
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
-      "2024-03-13": 1440,
-      "2024-03-12": 1440
+      "2024-03-13": 1440
     }
   },
   {
@@ -758,18 +759,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pw.atslega.network.ico",
     "slug": "bitwarden",
     "status": "down",
-    "uptime": "83.93%",
+    "uptime": "83.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "54.32%",
-    "time": 470,
+    "uptimeYear": "54.04%",
+    "time": 471,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2025-03-11": 66,
+      "2025-03-12": 65,
+      "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -963,7 +965,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 66,
+      "2025-03-12": 65,
+      "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -1326,8 +1329,7 @@
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
-      "2024-03-13": 1440,
-      "2024-03-12": 1440
+      "2024-03-13": 1440
     }
   },
   {
@@ -1336,7 +1338,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/spotify-live.atslega.de.ico",
     "slug": "spotify-status",
     "status": "down",
-    "uptime": "33.66%",
+    "uptime": "33.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1345,9 +1347,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 464,
+    "timeYear": 463,
     "dailyMinutesDown": {
-      "2025-03-11": 66,
+      "2025-03-12": 65,
+      "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -1710,8 +1713,7 @@
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
-      "2024-03-13": 1440,
-      "2024-03-12": 1440
+      "2024-03-13": 1440
     }
   },
   {
@@ -1720,7 +1722,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/librenms.atslega.network.ico",
     "slug": "librenms",
     "status": "down",
-    "uptime": "51.74%",
+    "uptime": "51.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1731,7 +1733,8 @@
     "timeMonth": 0,
     "timeYear": 396,
     "dailyMinutesDown": {
-      "2025-03-11": 66,
+      "2025-03-12": 65,
+      "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -2094,8 +2097,7 @@
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
-      "2024-03-13": 1440,
-      "2024-03-12": 1440
+      "2024-03-13": 1440
     }
   }
 ]
