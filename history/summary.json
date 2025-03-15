@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.atslega.network.ico",
     "slug": "mailcow",
     "status": "down",
-    "uptime": "71.14%",
+    "uptime": "71.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "25.00%",
+    "uptimeYear": "24.72%",
     "time": 819,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 792,
+    "timeYear": 795,
     "dailyMinutesDown": {
-      "2025-03-14": 65,
+      "2025-03-15": 64,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -308,10 +309,10 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "86.97%",
     "time": 549,
-    "timeDay": 518,
-    "timeWeek": 380,
-    "timeMonth": 434,
-    "timeYear": 480,
+    "timeDay": 404,
+    "timeWeek": 390,
+    "timeMonth": 430,
+    "timeYear": 481,
     "dailyMinutesDown": {
       "2025-03-05": 65,
       "2025-01-14": 29,
@@ -377,7 +378,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.atslega.network.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "51.68%",
+    "uptime": "51.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -388,7 +389,8 @@
     "timeMonth": 0,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2025-03-14": 65,
+      "2025-03-15": 64,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -751,8 +753,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   },
   {
@@ -761,18 +762,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pw.atslega.network.ico",
     "slug": "bitwarden",
     "status": "down",
-    "uptime": "83.73%",
+    "uptime": "83.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "53.49%",
+    "uptimeYear": "53.22%",
     "time": 458,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2025-03-14": 65,
+      "2025-03-15": 65,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -969,7 +971,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-14": 65,
+      "2025-03-15": 65,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -1332,8 +1335,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   },
   {
@@ -1342,7 +1344,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/spotify-live.atslega.de.ico",
     "slug": "spotify-status",
     "status": "down",
-    "uptime": "33.58%",
+    "uptime": "33.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1351,9 +1353,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 463,
+    "timeYear": 464,
     "dailyMinutesDown": {
-      "2025-03-14": 65,
+      "2025-03-15": 65,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -1716,8 +1719,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   },
   {
@@ -1726,7 +1728,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/librenms.atslega.network.ico",
     "slug": "librenms",
     "status": "down",
-    "uptime": "51.61%",
+    "uptime": "51.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1737,7 +1739,8 @@
     "timeMonth": 0,
     "timeYear": 396,
     "dailyMinutesDown": {
-      "2025-03-14": 65,
+      "2025-03-15": 65,
+      "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
@@ -2100,8 +2103,7 @@
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
-      "2024-03-16": 1440,
-      "2024-03-15": 1440
+      "2024-03-16": 1440
     }
   }
 ]
