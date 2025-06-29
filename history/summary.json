@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.atslega.network.ico",
     "slug": "mailcow",
     "status": "down",
-    "uptime": "65.55%",
+    "uptime": "65.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 771,
+    "time": 773,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-28": 1013,
+      "2025-06-29": 83,
+      "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -379,8 +380,7 @@
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
-      "2024-06-30": 1440,
-      "2024-06-29": 1440
+      "2024-06-30": 1440
     }
   },
   {
@@ -390,17 +390,17 @@
     "slug": "gameserver-panel",
     "status": "up",
     "uptime": "93.83%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "89.59%",
-    "time": 494,
-    "timeDay": 467,
-    "timeWeek": 571,
-    "timeMonth": 578,
-    "timeYear": 499,
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "89.60%",
+    "time": 487,
+    "timeDay": 460,
+    "timeWeek": 580,
+    "timeMonth": 550,
+    "timeYear": 491,
     "dailyMinutesDown": {
-      "2025-06-28": 26,
+      "2025-06-28": 15,
       "2025-06-26": 21,
       "2025-06-04": 120,
       "2025-06-03": 22,
@@ -464,7 +464,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.atslega.network.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "47.62%",
+    "uptime": "47.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -475,7 +475,8 @@
     "timeMonth": 0,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2025-06-28": 1013,
+      "2025-06-29": 83,
+      "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -838,8 +839,7 @@
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
-      "2024-06-30": 1440,
-      "2024-06-29": 1440
+      "2024-06-30": 1440
     }
   },
   {
@@ -848,18 +848,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pw.atslega.network.ico",
     "slug": "bitwarden",
     "status": "down",
-    "uptime": "77.15%",
+    "uptime": "77.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "27.06%",
-    "time": 414,
+    "uptimeYear": "26.96%",
+    "time": 413,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 435,
+    "timeYear": 433,
     "dailyMinutesDown": {
-      "2025-06-28": 1013,
+      "2025-06-29": 83,
+      "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -1150,7 +1151,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-28": 1013,
+      "2025-06-29": 83,
+      "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -1513,8 +1515,7 @@
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
-      "2024-06-30": 1440,
-      "2024-06-29": 1440
+      "2024-06-30": 1440
     }
   },
   {
@@ -1528,13 +1529,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 468,
+    "time": 469,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 480,
+    "timeYear": 481,
     "dailyMinutesDown": {
-      "2025-06-28": 1013,
+      "2025-06-29": 83,
+      "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -1897,8 +1899,7 @@
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
-      "2024-06-30": 1440,
-      "2024-06-29": 1440
+      "2024-06-30": 1440
     }
   },
   {
@@ -1907,18 +1908,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/librenms.atslega.network.ico",
     "slug": "librenms",
     "status": "down",
-    "uptime": "47.56%",
+    "uptime": "47.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 396,
+    "time": 397,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 413,
+    "timeYear": 414,
     "dailyMinutesDown": {
-      "2025-06-28": 1013,
+      "2025-06-29": 83,
+      "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -2281,8 +2283,7 @@
       "2024-07-03": 1440,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
-      "2024-06-30": 1440,
-      "2024-06-29": 1440
+      "2024-06-30": 1440
     }
   }
 ]
